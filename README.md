@@ -5,7 +5,7 @@
 - CardView
 - Animation
 - Circular Image
-- Fab Button & SnakBar
+- Fab Button & SnackBar
 - Generic function to start activity
 
 ### Requirements 
