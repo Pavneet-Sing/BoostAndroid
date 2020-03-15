@@ -14,8 +14,9 @@
 
 > Note : If you have different SDK platform(latest) then use "import" option to open this project first time
 
+### Contribution
 PR are welcome, TIA.
 
-License :
+### License
 
-MIT
+[MIT](LICENSE)
